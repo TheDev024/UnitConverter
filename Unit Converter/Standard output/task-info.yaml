@@ -46,9 +46,9 @@ files:
         println("Hello, World!")
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/70/stages/385/implement#comment
+feedback_link: https://hyperskill.org/learn/step/6090#comment
 status: Solved
 feedback:
   message: Congratulations!
-  time: Wed, 26 Oct 2022 06:17:55 UTC
-record: -1
+  time: "Wed, 26 Oct 2022 06:17:55 UTC"
+record: 1
